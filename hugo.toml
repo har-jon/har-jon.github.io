@@ -2,6 +2,18 @@ baseURL = 'https://har-jon.github.io/'
 locale = 'en-us'
 title = 'Harley'
 theme = "yinyang"
+canonifyURLs = false
+enableRobotsTXT = true
+
+[permalinks]
+post = "/blog/:title/"
 
 [params]
 headTitle = "Harley"
+mainSections = ["blog"]
+extraHead = '<meta name="fediverse:creator" content="@harjon@universeodon.com">'
+twitterCards = true
+
+[[params.socials]]
+name = "Mastodon"
+link = "https://universeodon.com/@harjon"

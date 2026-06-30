@@ -47,3 +47,7 @@ Bluesky didn't build the decentralized network it promised to become. They inste
 This was a compromise to ensure ease of use. By centralizing the expensive computational relays, directories, and app views, they were able to avoid the performance lag, fragmentation, and other hurdles that harm traditional peer-to-peer federated platforms like Mastodon.
 
 To the average user, this version of **"decentralization-lite" serves as a win**. It feels like a modern social app on the user level, which allows for easy adoption. For others that care about the future of the open web and removing single points of failure, Bluesky serves as a tragic tale of why modern convenience topples technical decentralization. The AT Protocol may be able to survive without the main Bluesky PBC, though for now, **its fate lies firmly in venture capital hands**.
+
+---
+
+[Leave a comment on Mastodon](https://universeodon.com/@harjon/116839428633162072)
