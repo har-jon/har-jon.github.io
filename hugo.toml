@@ -1,0 +1,7 @@
+baseURL = 'https://har-jon.github.io'
+locale = 'en-us'
+title = 'Harley'
+theme = "yinyang"
+
+[params]
+headTitle = "Harley"
