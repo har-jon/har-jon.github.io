@@ -11,7 +11,7 @@ post = "/blog/:title/"
 [params]
 headTitle = "Harley"
 mainSections = ["blog"]
-extraHead = '<meta name="fediverse:creator" content="@harjon@universeodon.com">'
+extraHead = '<meta name="fediverse:creator" content="@harjon@universeodon.com"><a rel="me" href="https://universeodon.com/@harjon"></a>'
 twitterCards = true
 
 [[params.socials]]
