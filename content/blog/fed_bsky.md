@@ -50,4 +50,10 @@ To the average user, this version of **"decentralization-lite" serves as a win**
 
 ---
 
+## Additional Notes:
+### [17:38 UTC+1]
+[@ricci@discuss.systems](https://discuss.systems/@ricci) has informed me that the process to transfer PLC into an "independent" entity has been ongoing since the end of 2025. This shouldn't impact my central point that the directory gives a massive level of control over user identities. (**[link to source](https://discuss.systems/@ricci/116840011996592115)**)
+
+---
+
 [Leave a comment on Mastodon](https://universeodon.com/@harjon/116839428633162072)
